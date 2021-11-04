@@ -1,4 +1,4 @@
-Hola!!. Mi nombre es Jaime Aravena Siqués, soy Ingeniero Civil Informátic, llevo programando desde hace más de 5 años. He trabajado en muchos proyectos de desarrollo móvil e IoT.
+Hola!. Mi nombre es Jaime Aravena Siqués, soy Ingeniero Civil Informátic, llevo programando desde hace más de 5 años. He trabajado en muchos proyectos de desarrollo móvil e IoT.
 
 ✏ Experiencia en emprendimientos del área informática.
 
